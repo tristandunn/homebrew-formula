@@ -4,9 +4,9 @@ A [Homebrew tap][] for some of my projects.
 
 ## Usage
 
-Tap this repository:
+Install the packages this tap contains:
 
-    brew tap tristandunn/formula
+    brew install tristandunn/formula/task
 
 
 
